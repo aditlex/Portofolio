@@ -260,7 +260,6 @@ export default function Home() {
     />
     <button
       type="button"
-      onClick={() => window.location.href = 'mailto:adityawirya87@gmail.com?subject=New Message&body=Name: [Your Name]%0AEmail: [Your Email]%0AMessage: [Your Message]'}
       className="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 rounded-lg transition-all"
     >
       Send Message
